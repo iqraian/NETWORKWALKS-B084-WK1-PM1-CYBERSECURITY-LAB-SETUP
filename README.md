@@ -43,8 +43,14 @@ The main objectives of this project are to:
 | 🌍 DNS Server      | 10.0.0.1         |
 
 ## Screen Shorts
-![](Sanpshot.PNG)
+
 ![](VirtualBox.PNG)
-![](1-screenshot-title-image.png)
+![](VirtualBox_3.PNG)
+![](VirtualBox3.PNG)
+![](VirtualBox_4.PNG)
+![](NATNetwork.PNG)
+![](Kalilinux.PNG)
+![](KaliLinux_1.PNG)
+![](Sanpshot.PNG)
 
 ---
