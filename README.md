@@ -42,6 +42,6 @@ The main objectives of this project are to:
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 10.0.0.1         |
 
-![](Virtual Box Installation.png)
+![](Kali Linux.PNG)
 
 ---
