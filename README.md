@@ -42,11 +42,6 @@ The main objectives of this project are to:
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 10.0.0.1         |
 
-# 🪜 Lab Setup Steps
-Step 1 Download Virtual Box and Kali Linux Setup File
-Step 2 Install Virtual Box
-Step 3 Add NATNetworks
-Step 4 Import Kali Linux on the Virtual Box
-Step 5 Configure IP Setting in the Kali Linux
+![](Virtual Box Installation.png)
 
 ---
