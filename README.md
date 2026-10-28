@@ -42,6 +42,7 @@ The main objectives of this project are to:
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 10.0.0.1         |
 
+## Screen Shorts
 ![](KaliLinux.PNG)
-![](KaliLinux_1.PNG)
+![](VirtualBox.PNG)
 ---
